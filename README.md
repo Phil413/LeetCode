@@ -1,2 +1,2 @@
 # LeetCode
- A Record of My LeetCode，LeetCode的个人 解题之路
+ A Exercise of My LeetCode，LeetCode的个人练习
